@@ -9,3 +9,7 @@ int main(){
     //some note
     return 0;
 }
+
+void sumOfNum(int a, int b){
+    return a+b;
+}
